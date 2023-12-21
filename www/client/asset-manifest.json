@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/www/client/static/css/main.e02c95c8.css",
+    "main.js": "/www/client/static/js/main.a5c51f0e.js",
+    "static/media/logo.webp": "/www/client/static/media/logo.1ca6774ddacae37cfd21.webp",
+    "index.html": "/www/client/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e02c95c8.css",
+    "static/js/main.a5c51f0e.js"
+  ]
+}
